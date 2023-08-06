@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on E-Found</title>
-    <link>https://startwei.github.io/posts/</link>
-    <description>Recent content in Posts on E-Found</description>
+    <title>blog on E-Found</title>
+    <link>https://startwei.github.io/tags/blog/</link>
+    <description>Recent content in blog on E-Found</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>sample@gmail.com (Wei)</managingEditor>
     <webMaster>sample@gmail.com (Wei)</webMaster>
-    <lastBuildDate>Mon, 31 Jul 2023 23:15:17 +0800</lastBuildDate><atom:link href="https://startwei.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Second Page</title>
-      <link>https://startwei.github.io/posts/second-page/</link>
-      <pubDate>Mon, 31 Jul 2023 23:15:17 +0800</pubDate>
-      <author>sample@gmail.com (Wei)</author>
-      <guid>https://startwei.github.io/posts/second-page/</guid>
-      <description>new page this is second page ***</description>
-    </item>
-    
+    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://startwei.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Test Of Hugo Theme</title>
       <link>https://startwei.github.io/posts/first-page/</link>

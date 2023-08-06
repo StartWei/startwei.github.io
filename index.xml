@@ -19,12 +19,12 @@
     </item>
     
     <item>
-      <title></title>
+      <title>The Test Of Hugo Theme</title>
       <link>https://startwei.github.io/posts/first-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
       <author>sample@gmail.com (Wei)</author>
       <guid>https://startwei.github.io/posts/first-page/</guid>
-      <description>title: The Test Of Hugo Theme date: 2023-07-31 tags: [&amp;ldquo;hugo&amp;rdquo;,&amp;ldquo;blog&amp;rdquo;] image: &amp;ldquo;/img/th_flower.jpg&amp;rdquo; Description: &amp;ldquo;It&amp;rsquo;s some descriptions about this blog&amp;rdquo; draft: false Test?
+      <description>Test?
 It&amp;rsquo;s a test about hugo theme.</description>
     </item>
     

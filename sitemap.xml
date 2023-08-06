@@ -11,10 +11,18 @@
     <loc>https://startwei.github.io/posts/second-page/</loc>
     <lastmod>2023-07-31T23:15:17+08:00</lastmod>
   </url><url>
-    <loc>https://startwei.github.io/posts/first-page/</loc>
+    <loc>https://startwei.github.io/tags/blog/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://startwei.github.io/categories/</loc>
+    <loc>https://startwei.github.io/tags/hugo/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://startwei.github.io/tags/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://startwei.github.io/posts/first-page/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://startwei.github.io/categories/</loc>
   </url>
 </urlset>
