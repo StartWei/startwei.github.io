@@ -2,28 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E-Found</title>
-    <link>https://startwei.github.io/</link>
+    <link>http://example.org/</link>
     <description>Recent content on E-Found</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jul 2023 23:15:17 +0800</lastBuildDate><atom:link href="https://startwei.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>sample@gmail.com (Wei)</managingEditor>
+    <webMaster>sample@gmail.com (Wei)</webMaster>
+    <lastBuildDate>Mon, 31 Jul 2023 23:15:17 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Page</title>
-      <link>https://startwei.github.io/posts/second-page/</link>
+      <link>http://example.org/posts/second-page/</link>
       <pubDate>Mon, 31 Jul 2023 23:15:17 +0800</pubDate>
-      
-      <guid>https://startwei.github.io/posts/second-page/</guid>
+      <author>sample@gmail.com (Wei)</author>
+      <guid>http://example.org/posts/second-page/</guid>
       <description>new page this is second page ***</description>
     </item>
     
     <item>
-      <title>First Page</title>
-      <link>https://startwei.github.io/posts/first-page/</link>
-      <pubDate>Mon, 31 Jul 2023 23:13:35 +0800</pubDate>
-      
-      <guid>https://startwei.github.io/posts/first-page/</guid>
-      <description>This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <title></title>
+      <link>http://example.org/posts/first-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sample@gmail.com (Wei)</author>
+      <guid>http://example.org/posts/first-page/</guid>
+      <description>title: The Test Of Hugo Theme date: 2023-07-31 tags: [&amp;ldquo;hugo&amp;rdquo;,&amp;ldquo;blog&amp;rdquo;] image: &amp;ldquo;/img/th_flower.jpg&amp;rdquo; Description: &amp;ldquo;It&amp;rsquo;s some descriptions about this blog&amp;rdquo; draft: false Test?
+It&amp;rsquo;s a test about hugo theme.</description>
     </item>
     
   </channel>
