@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://startwei.github.io/en/</loc>
+    <lastmod>2023-07-31T23:15:17+08:00</lastmod>
+  </url><url>
+    <loc>https://startwei.github.io/en/posts/</loc>
+    <lastmod>2023-07-31T23:15:17+08:00</lastmod>
+  </url><url>
+    <loc>https://startwei.github.io/en/posts/second-page/</loc>
+    <lastmod>2023-07-31T23:15:17+08:00</lastmod>
+  </url><url>
+    <loc>https://startwei.github.io/en/tags/blog/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://startwei.github.io/en/tags/hugo/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://startwei.github.io/en/tags/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://startwei.github.io/en/posts/first-page/</loc>
+    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://startwei.github.io/en/posts/three/</loc>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://startwei.github.io/en/categories/</loc>
+  </url><url>
+    <loc>https://startwei.github.io/en/series/</loc>
+  </url>
+</urlset>

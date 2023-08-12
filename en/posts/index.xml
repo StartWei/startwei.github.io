@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on E-Found</title>
+    <link>https://startwei.github.io/en/posts/</link>
+    <description>Recent content in Posts on E-Found</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>PaperMod</copyright>
+    <lastBuildDate>Mon, 31 Jul 2023 23:15:17 +0800</lastBuildDate><atom:link href="https://startwei.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Page</title>
+      <link>https://startwei.github.io/en/posts/second-page/</link>
+      <pubDate>Mon, 31 Jul 2023 23:15:17 +0800</pubDate>
+      
+      <guid>https://startwei.github.io/en/posts/second-page/</guid>
+      <description>new page this is second page ***</description>
+    </item>
+    
+    <item>
+      <title>The Test Of Hugo Theme</title>
+      <link>https://startwei.github.io/en/posts/first-page/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://startwei.github.io/en/posts/first-page/</guid>
+      <description>It&amp;#39;s some descriptions about this blog</description>
+    </item>
+    
+    <item>
+      <title>Build a Hugo Blog</title>
+      <link>https://startwei.github.io/en/posts/three/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://startwei.github.io/en/posts/three/</guid>
+      <description>It’s a fast and static website generator written in the Go language. Websites built with Hugo can be hosted anywhere from GitHub...</description>
+    </item>
+    
+  </channel>
+</rss>

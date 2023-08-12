@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on E-Found</title>
     <link>https://startwei.github.io/tags/</link>
     <description>Recent content in Tags on E-Found</description>
+    <image>
+      <title>E-Found</title>
+      <url>https://startwei.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://startwei.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>sample@gmail.com (Wei)</managingEditor>
-    <webMaster>sample@gmail.com (Wei)</webMaster>
-    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://startwei.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://startwei.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://startwei.github.io/tags/about/</link>
+      <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://startwei.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blog</title>
       <link>https://startwei.github.io/tags/blog/</link>
       <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Wei)</author>
+      
       <guid>https://startwei.github.io/tags/blog/</guid>
       <description></description>
     </item>
@@ -22,7 +34,7 @@
       <title>hugo</title>
       <link>https://startwei.github.io/tags/hugo/</link>
       <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
-      <author>sample@gmail.com (Wei)</author>
+      
       <guid>https://startwei.github.io/tags/hugo/</guid>
       <description></description>
     </item>
