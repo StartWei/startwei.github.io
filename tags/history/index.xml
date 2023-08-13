@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>E-Found</title>
-    <link>https://startwei.github.io/</link>
-    <description>Recent content on E-Found</description>
+    <title>history on E-Found</title>
+    <link>https://startwei.github.io/tags/history/</link>
+    <description>Recent content in history on E-Found</description>
     <image>
       <title>E-Found</title>
       <url>https://startwei.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,16 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Aug 2023 16:24:40 +0800</lastBuildDate><atom:link href="https://startwei.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>1</title>
-      <link>https://startwei.github.io/posts/technology/1/</link>
-      <pubDate>Sun, 13 Aug 2023 16:24:40 +0800</pubDate>
-      
-      <guid>https://startwei.github.io/posts/technology/1/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sun, 13 Aug 2023 16:23:49 +0800</lastBuildDate><atom:link href="https://startwei.github.io/tags/history/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>International Left-Handers Day</title>
       <link>https://startwei.github.io/posts/history/1/</link>
@@ -30,26 +21,6 @@
       <description>Origin of Left-Handers Day International Left-Handers Day is celebrated annually on August 13th to raise awareness about the advantages and disadvantages of being left-handed in a predominantly right-handed world. It was first observed in 1976 by Dean R. Campbell, founder of the Lefthanders International Inc.
 Advantages of being left-handed Sure! Left-handed people have many advantages. They have the ability to fully utilize both sides of their brain, making them excel in many areas.</description>
     </item>
-    
-    <item>
-      <title>About E-Found</title>
-      <link>https://startwei.github.io/about/about/</link>
-      <pubDate>Sun, 13 Aug 2023 15:34:26 +0800</pubDate>
-      
-      <guid>https://startwei.github.io/about/about/</guid>
-      <description>Different interesting things happen every day.
-So this is a website that records all kinds of novelties.</description>
-    </item>
-    
-    <item>
-      <title>Archives</title>
-      <link>https://startwei.github.io/archives/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://startwei.github.io/archives/archives/</guid>
-      <description></description>
-    </item>
-    
     
   </channel>
 </rss>
