@@ -6,12 +6,21 @@
     <description>Recent content in NFT on E-Found</description>
     <image>
       <title>E-Found</title>
-      <url>https://startwei.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://startwei.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://startwei.github.io/img/home.png</url>
+      <link>https://startwei.github.io/img/home.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Aug 2023 23:14:44 +0800</lastBuildDate><atom:link href="https://startwei.github.io/tags/nft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Sep 2023 19:43:26 +0800</lastBuildDate><atom:link href="https://startwei.github.io/tags/nft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claim Your $BUBBLE Chest — Imaginary Ones Free Airdrop</title>
+      <link>https://startwei.github.io/posts/blog/ones/</link>
+      <pubDate>Sun, 03 Sep 2023 19:43:26 +0800</pubDate>
+      
+      <guid>https://startwei.github.io/posts/blog/ones/</guid>
+      <description>Imaginary Ones is a online platform for 3D animated art NFT collection, Imaginary Ones drop of 8888 unique NFTs on the Ethereum network. They will airdrop $BUBBLE box.</description>
+    </item>
+    
     <item>
       <title>Free NFT Mint - Avive</title>
       <link>https://startwei.github.io/posts/blog/5/</link>
